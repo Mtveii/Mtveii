@@ -22,7 +22,7 @@
 
 ---
 
-## ━━ ABOUT ME ━━
+## ⌨️ About me
 
 <div align="center">
 <img align="right" width="180" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="coding gif">
@@ -39,7 +39,7 @@ working with team & AI agents — `shipping, not talking`
 
 ---
 
-## ━━ TECH STACK ━━
+## 🛠 Tech stack
 
 *if it compiles, I ship it*
 
@@ -130,7 +130,7 @@ working with team & AI agents — `shipping, not talking`
 
 ---
 
-## ━━ PROJECTS ━━
+## 📸 Projects
 
 <div align="center">
 
@@ -155,7 +155,7 @@ working with team & AI agents — `shipping, not talking`
 
 ---
 
-## ━━ STATISTICS ━━
+## 📊 Statistics
 
 <div align="center">
 
@@ -179,7 +179,7 @@ working with team & AI agents — `shipping, not talking`
 
 ---
 
-## ━━ CONTRIBUTION GRAPH ━━
+## 📈 Contribution graph
 
 <div align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mtveii&custom_title=Contribution%20Graph&area=true&hide_border=true&bg_color=0D1117&color=C9D1D9&line=F0F6FC&point=8B949E&area_color=30363D" alt="Contribution graph">
@@ -187,7 +187,7 @@ working with team & AI agents — `shipping, not talking`
 
 ---
 
-## ━━ SNAKE ━━
+## 🐍 Snake
 
 <div align="center">
 <img width="98%" src="https://raw.githubusercontent.com/Mtveii/Mtveii/output/github-contribution-grid-snake-grey.svg" alt="snake">
