@@ -155,38 +155,6 @@ working with team & AI agents — `shipping, not talking`
 
 ---
 
-## 📊 Statistics
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Mtveii&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=C9D1D9&icon_color=8B949E&border_radius=12" alt="GitHub stats">
-</td>
-<td width="50%">
-<img width="100%" src="https://streak-stats.demolab.com?user=Mtveii&hide_border=true&background=0D1117&border=30363D&ring=F0F6FC&currStreakLabel=F0F6FC&currStreakNum=E6EDF3&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&border_radius=12" alt="Streak stats">
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mtveii&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=C9D1D9&border_radius=12" alt="Top languages">
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📈 Contribution graph
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mtveii&custom_title=Contribution%20Graph&area=true&hide_border=true&bg_color=0D1117&color=C9D1D9&line=F0F6FC&point=8B949E&area_color=30363D" alt="Contribution graph">
-</div>
-
----
-
 ## 🐍 Snake
 
 <div align="center">
