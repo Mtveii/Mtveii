@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="97%" src="https://raw.githubusercontent.com/Mtveii/Mtveii/main/assets/banner.svg" alt="banner">
+<img width="97%" src="https://raw.githubusercontent.com/Mtveii/Mtveii/main/assets/banner.jpg" alt="banner">
 
 <br>
 
@@ -25,7 +25,7 @@
 ## ⌨️ About me
 
 <div align="center">
-<img align="right" width="180" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="coding gif">
+<img align="right" width="240" src="https://raw.githubusercontent.com/Mtveii/Mtveii/main/assets/hero.jpg" alt="hero art">
 
 **Hey there, I'm Matveii**  
 I can build almost anything: `desktop` → `web` → `bots` → `AI` → `web3`  
