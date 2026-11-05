@@ -136,16 +136,16 @@ working with team & AI agents — `shipping, not talking`
 
 <table>
 <tr>
-<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mtveii&repo=FASTHUB&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=C9D1D9&icon_color=8B949E&border_radius=12" alt="FastHub"></td>
-<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mtveii&repo=Steam_ASP.NET_Core_React&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=C9D1D9&icon_color=8B949E&border_radius=12" alt="Steam ASP.NET React"></td>
+<td width="50%"><img width="100%" src="https://socialify.git.ci/Mtveii/FASTHUB/image?font=Source+Code+Pro&language=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="FastHub"></td>
+<td width="50%"><img width="100%" src="https://socialify.git.ci/Mtveii/Steam_ASP.NET_Core_React/image?font=Source+Code+Pro&language=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="Steam ASP.NET React"></td>
 </tr>
 <tr>
-<td><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mtveii&repo=web3-rpg-game-contractsy&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=C9D1D9&icon_color=8B949E&border_radius=12" alt="web3 rpg contracts"></td>
-<td><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mtveii&repo=ChatInsightBot&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=C9D1D9&icon_color=8B949E&border_radius=12" alt="ChatInsightBot"></td>
+<td><img width="100%" src="https://socialify.git.ci/Mtveii/web3-rpg-game-contractsy/image?font=Source+Code+Pro&language=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="web3 rpg contracts"></td>
+<td><img width="100%" src="https://socialify.git.ci/Mtveii/ChatInsightBot/image?font=Source+Code+Pro&language=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="ChatInsightBot"></td>
 </tr>
 <tr>
-<td><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mtveii&repo=TextFixerBot&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=C9D1D9&icon_color=8B949E&border_radius=12" alt="TextFixerBot"></td>
-<td><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mtveii&repo=AudioDecoderBot&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=C9D1D9&icon_color=8B949E&border_radius=12" alt="AudioDecoderBot"></td>
+<td><img width="100%" src="https://socialify.git.ci/Mtveii/TextFixerBot/image?font=Source+Code+Pro&language=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="TextFixerBot"></td>
+<td><img width="100%" src="https://socialify.git.ci/Mtveii/AudioDecoderBot/image?font=Source+Code+Pro&language=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="AudioDecoderBot"></td>
 </tr>
 </table>
 
