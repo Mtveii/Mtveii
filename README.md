@@ -16,15 +16,13 @@
 
 [![Telegram](https://img.shields.io/badge/TELEGRAM-%40Matvey739-21262D?style=for-the-badge&logo=telegram&logoColor=E6EDF3)](https://t.me/Matvey739)
 [![Gmail](https://img.shields.io/badge/GMAIL-maatveii567%40gmail.com-21262D?style=for-the-badge&logo=gmail&logoColor=E6EDF3)](mailto:maatveii567@gmail.com)
-[![FastHub](https://img.shields.io/badge/FASTHUB-C%2B%2B%20%2F%20QT-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3)](https://github.com/Mtveii/FASTHUB)
-
 </div>
 
 ---
 
 ## ⌨️ About me
 
-<div align="center">
+<div align="left">
 <img align="right" width="240" src="https://raw.githubusercontent.com/Mtveii/Mtveii/main/assets/hero.jpg" alt="hero art">
 
 **Hey there, I'm Matveii**  
@@ -128,32 +126,6 @@ working with team & AI agents — `shipping, not talking`
 
 </div>
 
----
-
-## 📸 Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%"><img width="100%" src="https://socialify.git.ci/Mtveii/FASTHUB/image?font=Source+Code+Pro&language=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="FastHub"></td>
-<td width="50%"><img width="100%" src="https://socialify.git.ci/Mtveii/Steam_ASP.NET_Core_React/image?font=Source+Code+Pro&language=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="Steam ASP.NET React"></td>
-</tr>
-<tr>
-<td><img width="100%" src="https://socialify.git.ci/Mtveii/web3-rpg-game-contractsy/image?font=Source+Code+Pro&language=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="web3 rpg contracts"></td>
-<td><img width="100%" src="https://socialify.git.ci/Mtveii/ChatInsightBot/image?font=Source+Code+Pro&language=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="ChatInsightBot"></td>
-</tr>
-<tr>
-<td><img width="100%" src="https://socialify.git.ci/Mtveii/TextFixerBot/image?font=Source+Code+Pro&language=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="TextFixerBot"></td>
-<td><img width="100%" src="https://socialify.git.ci/Mtveii/AudioDecoderBot/image?font=Source+Code+Pro&language=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="AudioDecoderBot"></td>
-</tr>
-</table>
-
-⚙️ [all repositories](https://github.com/Mtveii?tab=repositories)
-
-</div>
-
----
 
 ## 🐍 Snake
 
