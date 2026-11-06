@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://github.com/Mtveii">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=E6EDF3&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=C%2B%2B+%7C+Python+%7C+React+%7C+ASP.NET+%7C+Bots+%7C+AI+%7C+Web3;if+it+compiles%2C+I+shipped+it" alt="banner">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=E6EDF3&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=C%2FC%2B%2B+%7C+Python+%7C+React+%7C+ASP.NET+%7C+Bots+%7C+AI+%7C+Web3;if+it+compiles%2C+I+shipped+it" alt="banner">
 </a>
 
 <br>
